@@ -40,6 +40,6 @@
 
 ### Program Output
 <img width="1222" height="755" alt="image" src="https://github.com/user-attachments/assets/6b2ea4e6-ab4a-4b78-bd75-eecb953ac872" />
-<img width="797" height="360" alt="image" src="https://github.com/user-attachments/assets/626ccaee-3e93-454b-bd84-d88d06857fb1" />
+<img width="1352" height="316" alt="image" src="https://github.com/user-attachments/assets/7418ea89-4055-4002-b2b6-b1f18218ed6c" />
 
 
